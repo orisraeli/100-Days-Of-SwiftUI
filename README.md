@@ -5,7 +5,7 @@
 ### Project 1: WeSplit
 A check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave.
 
-![Animated gif of WeSplit](assets/project 1 - wesplit.gif)
+![Animated gif of WeSplit](assets/project1_wesplit.gif)
 
 ### Challenge 1: Unit Convert
 An app to handle temperature units conversion between Celsius, Fahrenheit, or Kelvin. The user can select input and output temperature unit and see the conversion result.
